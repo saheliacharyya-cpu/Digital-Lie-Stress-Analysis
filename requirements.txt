@@ -1,0 +1,4 @@
+opencv-python
+librosa
+scikit-learn
+soundfile
