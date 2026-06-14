@@ -88,3 +88,8 @@ Open your web browser and navigate to:
 ## 📝 Scientific Reference
 * **Paper Title**: *Multimodal Stress Detection Using Facial Expressions and Voice Analysis*
 * **Authors**: Prachi Shahane, Devendra Chinchanikar, Bill Jadhav, Rushabh Gunjal, Ankur Dhuri (2025)
+
+---
+
+## 👤 Developer / Author
+* **Saheli Acharyya** - [@saheliacharyya-cpu](https://github.com/saheliacharyya-cpu)
